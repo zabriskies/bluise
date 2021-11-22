@@ -1,10 +1,10 @@
 {
-  "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Hi, I'm mzh.",
-  "logo": "/images/uploads/logo.png",
-  "icon": "/images/uploads/logo.png",
-  "loadingColor": "#0b3765",
+  "title": "home",
+  "titleTemplate": "| mzh",
+  "welcomeText": "# **Hi, I'm mzh.**",
+  "logo": "/images/uploads/blue_reasonably_small.gif",
+  "icon": "/images/uploads/blue_reasonably_small.gif",
+  "loadingColor": "#0e74bb",
   "seoDescription": "Netlify CMS",
   "seoMetaImage": ""
 }
